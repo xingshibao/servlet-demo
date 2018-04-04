@@ -1,0 +1,8 @@
+/.settings/
+*/*.iml
+*.iml
+.idea
+.idea/*
+*.project
+*.factorypath
+*/target
